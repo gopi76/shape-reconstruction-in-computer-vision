@@ -1,4 +1,5 @@
 # Shape Reconstruction from 2D Images
+Shape Reconstruction project using computer vision (SFM- Surface from motion)
 
 ## Introduction
 Welcome to the Shape Reconstruction project! This project focuses on reconstructing the 3D shape of objects from 2D images using computer vision techniques. Two main approaches are explored: corner point detection and structure from motion (SfM).
